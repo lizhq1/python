@@ -1,0 +1,590 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" readonly="true" id="9d03ae33-0aea-4d37-9707-2eb6d73e4d67" name="Default" comment="" />
+    <ignored path="easyTest.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/easyTest$runTest.coverage" NAME="runTest Coverage Results" MODIFIED="1479800731955" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/script" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="easyTest" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="调试.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/script/config/调试.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/script/testCase/测试专用/并发测试.py" />
+        <option value="$PROJECT_DIR$/script/testCase/测试专用/商品列表.py" />
+        <option value="$PROJECT_DIR$/SRC/unittest/scene.py" />
+        <option value="$PROJECT_DIR$/script/report/log/20161122/20161122_15_23_00_933263_9508report.log" />
+        <option value="$PROJECT_DIR$/script/report/log/20161122/20161122_15_25_29_661263_5516report.log" />
+        <option value="$PROJECT_DIR$/script/report/log/20161122/20161122_15_39_10_655263_9548report.log" />
+        <option value="$PROJECT_DIR$/script/report/log/20161122/20161122_15_45_32_906263_13840report.log" />
+        <option value="$PROJECT_DIR$/SRC/common/decorator.py" />
+        <option value="$PROJECT_DIR$/__init__.py" />
+        <option value="$PROJECT_DIR$/SRC/webdriver/webelement.py" />
+        <option value="$PROJECT_DIR$/SRC/settings.py" />
+        <option value="$PROJECT_DIR$/script/report/log/20161124/20161124_16_23_10_038883_9992report.log" />
+        <option value="$PROJECT_DIR$/script/report/log/sys.log" />
+        <option value="$PROJECT_DIR$/script/report/log/20161128/20161128_09_36_42_858205_8804report.log" />
+        <option value="$PROJECT_DIR$/script/report/log/20161206/20161206_11_00_04_918356_6092report.log" />
+        <option value="$PROJECT_DIR$/script/report/log/20161206/20161206_11_03_55_863565_10184report.log" />
+        <option value="$PROJECT_DIR$/script/testCase/U易联/商城/门店公告.py" />
+        <option value="$PROJECT_DIR$/script/testCase/U易联/微信/微社区.py" />
+        <option value="$PROJECT_DIR$/script/report/log/20161206/20161206_11_17_18_028446_4124report.log" />
+        <option value="$PROJECT_DIR$/script/testCase/U易联/会员/会员档案.py" />
+        <option value="$PROJECT_DIR$/script/runTest.py" />
+        <option value="$PROJECT_DIR$/script/testCase/U易联/登陆.py" />
+        <option value="$PROJECT_DIR$/script/testCase/断言验证/code.xml" />
+        <option value="$PROJECT_DIR$/script/testCase/U易联/商城登陆.py" />
+        <option value="$PROJECT_DIR$/script/testCase/U易联/商城/促销管理-搭配套餐.py" />
+        <option value="$PROJECT_DIR$/script/testCase/U商城/搭配套餐/固定套餐.py" />
+        <option value="$PROJECT_DIR$/script/testCase/U商城/搭配套餐/搭配套餐.py" />
+        <option value="$PROJECT_DIR$/script/testCase/U商城/登录.py" />
+        <option value="$PROJECT_DIR$/script/testCase/U商城/U商城核心业务流程/周期购业务流程/test.py" />
+        <option value="$PROJECT_DIR$/script/testCase/U商城/U商城登出.py" />
+        <option value="$PROJECT_DIR$/script/testCase/U商城/固定套餐/固定套餐.py" />
+        <option value="$PROJECT_DIR$/script/testCase/U商城/供应商管理/供应商设置/供应商设置.py" />
+        <option value="$PROJECT_DIR$/script/testCase/U商城/数据管理/订单分析.py" />
+        <option value="$PROJECT_DIR$/script/testCase/U商城/数据管理/企业分析.py" />
+        <option value="$PROJECT_DIR$/script/testCase/U商城/U商城核心业务流程/周期购业务流程/周期购业务流程.py" />
+        <option value="$PROJECT_DIR$/script/testCase/U商城/前端登陆退出/前端登陆.py" />
+        <option value="$PROJECT_DIR$/script/testCase/U商城/前端登陆退出/前端退出.py" />
+        <option value="$PROJECT_DIR$/script/testCase/U商城/商城后端登陆退出/U商城登出.py" />
+        <option value="$PROJECT_DIR$/script/testCase/U商城/U商城核心业务流程/周期购业务流程/建立周期购商品.py" />
+        <option value="$PROJECT_DIR$/script/testCase/U商城/U商城核心业务流程/周期购业务流程/create_cycle_goods.py" />
+        <option value="$PROJECT_DIR$/script/testCase/U商城/U商城核心业务流程/周期购业务流程/创建周期购商品.py" />
+        <option value="$PROJECT_DIR$/script/testCase/U商城/U商城核心业务流程/周期购业务流程/前端使用周期购商品下单.py" />
+        <option value="$USER_HOME$/Documents/WeChat Files/lizhq1/Files/umall.py" />
+        <option value="$PROJECT_DIR$/script/testCase/U商城/U商城核心业务流程/周期购业务流程/b.py" />
+        <option value="$PROJECT_DIR$/script/testCase/U商城/商城设置/站内信设置/站内信设置.py" />
+        <option value="$PROJECT_DIR$/script/testCase/U商城/促销管理/固定套餐/固定套餐.py" />
+        <option value="$PROJECT_DIR$/script/testCase/U商城/U商城核心业务流程/周期购业务流程/启用周期购业务.py" />
+        <option value="$PROJECT_DIR$/script/config/调试.xml" />
+        <option value="$PROJECT_DIR$/script/testCase/U商城/商城前端登陆退出/前端登陆.py" />
+        <option value="$PROJECT_DIR$/script/testCase/U商城/U商城核心业务流程/周期购业务流程/新建周期购商品.py" />
+        <option value="$PROJECT_DIR$/script/testCase/U商城/U商城核心业务流程/周期购业务流程/使用前端下单.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="D:/untitled" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\python\script\testCase\U商城\促销管理" />
+      <recent name="C:\python\script\testCase\U商城\商城设置" />
+      <recent name="C:\python\script\testCase\U商城\商城后端登陆退出" />
+      <recent name="D:\工作\SVN\pythonProject\easyTestProject\easyTest\script\testCase\测试专用" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\testSelenium\easyTest1.0.11\script\testCase\U易联\微信" />
+      <recent name="E:\testSelenium\easyTest1.0.11\script\testCase\U易联\商城" />
+      <recent name="D:\工作\SVN\pythonProject\easyTestProject\easyTest\script\config" />
+      <recent name="D:\工作\SVN\pythonProject\easyTestProject\easyTest\script\testCase\测试专用" />
+      <recent name="D:\工作\SVN\pythonProject\easyTestProject\easyTest\script\data\测试专用" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.runTest">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="easyTest" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="runTest" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/script" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="easyTest" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/script/runTest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/script/testCase/U商城/U商城核心业务流程/周期购业务流程" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="easyTest" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/script/testCase/U商城/U商城核心业务流程/周期购业务流程/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <module name="easyTest" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="easyTest" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration name="Unittests for script.testCase.U商城.促销管理.固定套餐.固定套餐.EasyCase" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/script/testCase/U商城/促销管理/固定套餐" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="easyTest" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;script.testCase.U商城.促销管理.固定套餐.固定套餐.EasyCase&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="easyTest" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="easyTest" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_regexPattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="easyTest" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="easyTest" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <list size="3">
+      <item index="0" class="java.lang.String" itemvalue="Python.runTest" />
+      <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests for script.testCase.U商城.促销管理.固定套餐.固定套餐.EasyCase" />
+      <item index="2" class="java.lang.String" itemvalue="Python.test" />
+    </list>
+    <recent_temporary>
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="Python.runTest" />
+        <item index="1" class="java.lang.String" itemvalue="Python.test" />
+        <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests for script.testCase.U商城.促销管理.固定套餐.固定套餐.EasyCase" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration useDefault="false">C:\Program Files (x86)\Subversion\bin</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9d03ae33-0aea-4d37-9707-2eb6d73e4d67" name="Default" comment="" />
+      <created>1478673212987</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1478673212987</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_for_搭配套餐_EasyCase - 2018.04.02 at 16h 02m 39s.xml">
+      <configuration name="Unittests for 搭配套餐.EasyCase" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2641369" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32861635" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20880914" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32359308" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36688313" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32789558" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.log" />
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/script/testCase/测试专用/并发测试.py</url>
+          <line>38</line>
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/script/testCase/测试专用/登录.py</url>
+          <line>31</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="12" />
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="elementAlias" language="Python" />
+        <watch expression="element" language="Python" />
+        <watch expression="super(WebElement,element).text" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/script/report/log/20180412/20180412_11_03_52_991904_4060report.log" />
+    <entry file="file://$PROJECT_DIR$/script/report/log/20180412/20180412_13_01_19_032331_10392report.log" />
+    <entry file="file://$PROJECT_DIR$/script/report/log/20180412/20180412_13_05_04_371317_7252report.log" />
+    <entry file="file://$PROJECT_DIR$/script/report/log/20180412/20180412_13_16_24_894657_7100report.log" />
+    <entry file="file://$PROJECT_DIR$/script/report/log/20180412/20180412_13_22_10_385957_11464report.log" />
+    <entry file="file://$PROJECT_DIR$/script/report/log/20180412/20180412_13_27_27_248887_2992report.log" />
+    <entry file="file://$PROJECT_DIR$/script/report/log/sys.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script/report/log/20180412/20180412_13_39_46_638717_3068report.log" />
+    <entry file="file://$PROJECT_DIR$/script/report/log/20180412/20180412_13_57_15_477099_10216report.log" />
+    <entry file="file://$PROJECT_DIR$/script/report/log/20180412/20180412_14_17_56_137559_11616report.log" />
+    <entry file="file://$PROJECT_DIR$/script/report/log/20180412/20180412_14_26_26_823501_12836report.log" />
+    <entry file="file://$PROJECT_DIR$/script/report/log/20180412/20180412_14_44_08_012586_12344report.log" />
+    <entry file="file://$PROJECT_DIR$/script/report/image/20161124/20161124_16_10_39_021927_5624image.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script/report/log/20180412/20180412_15_59_58_676869_14876report.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-354">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script/report/log/20180412/20180412_16_03_43_288716_15304report.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1380">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script/testCase/U商城/促销管理/固定套餐/固定套餐.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="238" column="32" lean-forward="true" selection-start-line="238" selection-start-column="32" selection-end-line="238" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script/report/log/20180413/20180413_14_15_29_685649_3016report.log" />
+    <entry file="file://$PROJECT_DIR$/script/report/log/20180413/20180413_14_26_33_311606_8160report.log" />
+    <entry file="file://$PROJECT_DIR$/script/report/log/20180413/20180413_14_38_25_740354_3456report.log" />
+    <entry file="file://$PROJECT_DIR$/script/report/log/20180413/20180413_14_44_42_670914_9932report.log" />
+    <entry file="file://$PROJECT_DIR$/script/report/log/20180413/20180413_14_46_49_164149_10152report.log" />
+    <entry file="file://$PROJECT_DIR$/script/report/log/20180413/20180413_14_52_49_742773_8204report.log" />
+    <entry file="file://$PROJECT_DIR$/script/report/log/20180413/20180413_14_54_06_802180_10708report.log" />
+    <entry file="file://$PROJECT_DIR$/script/report/log/20180413/20180413_15_11_21_028334_11836report.log" />
+    <entry file="file://$PROJECT_DIR$/script/report/log/20180413/20180413_15_18_06_875548_7644report.log" />
+    <entry file="file://$PROJECT_DIR$/script/report/log/20180413/20180413_15_35_02_607644_9224report.log" />
+    <entry file="file://$PROJECT_DIR$/script/report/log/20180413/20180413_15_42_57_985834_10612report.log" />
+    <entry file="file://$PROJECT_DIR$/script/report/log/20180413/20180413_15_52_01_501922_12892report.log" />
+    <entry file="file://$PROJECT_DIR$/script/report/log/20180413/20180413_16_00_48_711076_13276report.log" />
+    <entry file="file://$PROJECT_DIR$/script/report/log/20180413/20180413_16_17_46_478289_13752report.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script/testCase/U商城/商城前端登陆退出/前端登陆.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="17" column="20" lean-forward="false" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script/report/log/20180414/20180414_10_15_24_902949_9080report.log" />
+    <entry file="file://$PROJECT_DIR$/script/report/log/20180414/20180414_10_19_37_334387_7704report.log" />
+    <entry file="file://$PROJECT_DIR$/script/report/log/20180414/20180414_10_23_30_421719_7332report.log" />
+    <entry file="file://$PROJECT_DIR$/script/report/log/20180414/20180414_10_27_34_194662_8472report.log" />
+    <entry file="file://$PROJECT_DIR$/script/testCase/U商城/商城后端登陆退出/U商城登录.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="40" column="77" lean-forward="true" selection-start-line="40" selection-start-column="77" selection-end-line="40" selection-end-column="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script/testCase/U商城/商城后端登陆退出/U商城登出.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="19" column="25" lean-forward="true" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script/report/log/20180414/20180414_13_42_40_117202_10788report.log" />
+    <entry file="file://$PROJECT_DIR$/script/report/log/20180414/20180414_15_21_06_945054_14296report.log" />
+    <entry file="file://$PROJECT_DIR$/script/report/log/20180414/20180414_10_30_57_752305_9056report.log" />
+    <entry file="file://$PROJECT_DIR$/script/report/log/20180414/20180414_10_40_11_561981_8584report.log" />
+    <entry file="file://$PROJECT_DIR$/script/report/log/20180414/20180414_09_52_41_485966_8064report.log" />
+    <entry file="file://$PROJECT_DIR$/script/report/log/20180414/20180414_15_24_17_353944_12888report.log" />
+    <entry file="file://$PROJECT_DIR$/script/report/log/20180414/20180414_15_30_23_356879_12480report.log" />
+    <entry file="file://$PROJECT_DIR$/script/report/log/20180414/20180414_15_33_40_092131_12888report.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="39" column="106" lean-forward="false" selection-start-line="39" selection-start-column="97" selection-end-line="39" selection-end-column="106" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script/testCase/U商城/供应商管理/供应商设置/供应商设置.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-969">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script/testCase/U商城/U商城核心业务流程/周期购业务流程/新建周期购商品.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1121">
+          <caret line="107" column="31" lean-forward="true" selection-start-line="107" selection-start-column="31" selection-end-line="107" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script/testCase/U商城/U商城核心业务流程/周期购业务流程/启用周期购业务.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2128">
+          <caret line="124" column="25" lean-forward="true" selection-start-line="124" selection-start-column="25" selection-end-line="124" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script/testCase/U商城/商城设置/站内信设置/站内信设置.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="413">
+          <caret line="53" column="10" lean-forward="false" selection-start-line="53" selection-start-column="10" selection-end-line="53" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script/testCase/U商城/U商城核心业务流程/周期购业务流程/使用前端下单.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="47" lean-forward="true" selection-start-line="19" selection-start-column="47" selection-end-line="19" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script/config/调试.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

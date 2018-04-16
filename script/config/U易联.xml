@@ -1,0 +1,407 @@
+<?xml version='1.0' encoding='utf-8'?>
+<catalog>
+  <connection description="浏览器及server地址">
+    <hub browser="Chrome" enabled="True"></hub>
+  </connection>
+
+
+
+  <scene description="脚本执行顺序为子标签排列顺序">
+    <testCase enabled="True" paramPath="">U易联/登陆</testCase>
+    <testCase enabled="True" paramPath="">U易联/会员/优惠券</testCase>
+    <testCase enabled="True" paramPath="">U易联/登出</testCase>
+  </scene>
+  <scene description="脚本执行顺序为子标签排列顺序">
+    <testCase enabled="True" paramPath="">U易联/报表登陆</testCase>
+    <testCase enabled="True" paramPath="">U易联/会员/会员基本分析</testCase>
+    <testCase enabled="True" paramPath="">U易联/登出</testCase>
+  </scene>
+  <scene description="脚本执行顺序为子标签排列顺序">
+    <testCase enabled="True" paramPath="">U易联/登陆</testCase>
+    <testCase enabled="True" paramPath="">U易联/会员/会员晋级</testCase>
+    <testCase enabled="True" paramPath="">U易联/登出</testCase>
+  </scene>
+  <scene description="脚本执行顺序为子标签排列顺序">
+    <testCase enabled="True" paramPath="">U易联/登陆</testCase>
+    <testCase enabled="True" paramPath="">U易联/会员/会员档案</testCase>
+    <testCase enabled="True" paramPath="">U易联/登出</testCase>
+  </scene>
+  <scene description="脚本执行顺序为子标签排列顺序">
+    <testCase enabled="True" paramPath="">U易联/报表登陆</testCase>
+    <testCase enabled="True" paramPath="">U易联/会员/会员等级分布</testCase>
+    <testCase enabled="True" paramPath="">U易联/登出</testCase>
+  </scene>
+  <scene description="脚本执行顺序为子标签排列顺序">
+    <testCase enabled="True" paramPath="">U易联/登陆</testCase>
+    <testCase enabled="True" paramPath="">U易联/会员/会员级别</testCase>
+    <testCase enabled="True" paramPath="">U易联/登出</testCase>
+  </scene>
+  <scene description="脚本执行顺序为子标签排列顺序">
+    <testCase enabled="True" paramPath="">U易联/登陆</testCase>
+    <testCase enabled="True" paramPath="">U易联/会员/储值卡管理</testCase>
+    <testCase enabled="True" paramPath="">U易联/登出</testCase>
+  </scene>
+  <scene description="脚本执行顺序为子标签排列顺序">
+    <testCase enabled="True" paramPath="">U易联/登陆</testCase>
+    <testCase enabled="True" paramPath="">U易联/会员/储值活动</testCase>
+    <testCase enabled="True" paramPath="">U易联/登出</testCase>
+  </scene>
+  <scene description="脚本执行顺序为子标签排列顺序">
+    <testCase enabled="True" paramPath="">U易联/报表登陆</testCase>
+    <testCase enabled="True" paramPath="">U易联/会员/储值活动分析</testCase>
+    <testCase enabled="True" paramPath="">U易联/登出</testCase>
+  </scene>
+  <scene description="脚本执行顺序为子标签排列顺序">
+    <testCase enabled="True" paramPath="">U易联/报表登陆</testCase>
+    <testCase enabled="True" paramPath="">U易联/会员/成交时间分析</testCase>
+    <testCase enabled="True" paramPath="">U易联/登出</testCase>
+  </scene>
+  <scene description="脚本执行顺序为子标签排列顺序">
+    <testCase enabled="True" paramPath="">U易联/登陆</testCase>
+    <testCase enabled="True" paramPath="">U易联/会员/渠道销售统计</testCase>
+    <testCase enabled="True" paramPath="">U易联/登出</testCase>
+  </scene>
+  <scene description="脚本执行顺序为子标签排列顺序">
+    <testCase enabled="True" paramPath="">U易联/登陆</testCase>
+    <testCase enabled="True" paramPath="">U易联/会员/营销规则</testCase>
+    <testCase enabled="True" paramPath="">U易联/登出</testCase>
+  </scene>
+
+
+
+
+
+
+  <scene description="脚本执行顺序为子标签排列顺序">
+    <testCase enabled="True" paramPath="">U易联/商城登陆</testCase>
+    <testCase enabled="True" paramPath="">U易联/商城/U商城跳转</testCase>
+    <testCase enabled="True" paramPath="">U易联/登出</testCase>
+  </scene>
+  <scene description="脚本执行顺序为子标签排列顺序">
+    <testCase enabled="True" paramPath="">U易联/登陆</testCase>
+    <testCase enabled="True" paramPath="">U易联/商城/佣金提现</testCase>
+    <testCase enabled="True" paramPath="">U易联/登出</testCase>
+  </scene>
+  <scene description="脚本执行顺序为子标签排列顺序">
+    <testCase enabled="True" paramPath="">U易联/商城登陆</testCase>
+    <testCase enabled="True" paramPath="">U易联/商城/佣金结算</testCase>
+    <testCase enabled="True" paramPath="">U易联/登出</testCase>
+  </scene>
+  <scene description="脚本执行顺序为子标签排列顺序">
+    <testCase enabled="True" paramPath="">U易联/登陆</testCase>
+    <testCase enabled="True" paramPath="">U易联/商城/分销商</testCase>
+    <testCase enabled="True" paramPath="">U易联/登出</testCase>
+  </scene>
+  <scene description="脚本执行顺序为子标签排列顺序">
+    <testCase enabled="True" paramPath="">U易联/登陆</testCase>
+    <testCase enabled="True" paramPath="">U易联/商城/分销订单</testCase>
+    <testCase enabled="True" paramPath="">U易联/登出</testCase>
+  </scene>
+  <scene description="脚本执行顺序为子标签排列顺序">
+    <testCase enabled="True" paramPath="">U易联/登陆</testCase>
+    <testCase enabled="True" paramPath="">U易联/商城/分销设置</testCase>
+    <testCase enabled="True" paramPath="">U易联/登出</testCase>
+  </scene>
+  <scene description="脚本执行顺序为子标签排列顺序">
+    <testCase enabled="True" paramPath="">U易联/报表登陆</testCase>
+    <testCase enabled="True" paramPath="">U易联/商城/商品分析</testCase>
+    <testCase enabled="True" paramPath="">U易联/登出</testCase>
+  </scene>
+  <scene description="脚本执行顺序为子标签排列顺序">
+    <testCase enabled="True" paramPath="">U易联/登陆</testCase>
+    <testCase enabled="True" paramPath="">U易联/商城/商品分类</testCase>
+    <testCase enabled="True" paramPath="">U易联/登出</testCase>
+  </scene>
+  <scene description="脚本执行顺序为子标签排列顺序">
+    <testCase enabled="True" paramPath="">U易联/登陆</testCase>
+    <testCase enabled="True" paramPath="">U易联/商城/商品分组</testCase>
+    <testCase enabled="True" paramPath="">U易联/登出</testCase>
+  </scene>
+  <scene description="脚本执行顺序为子标签排列顺序">
+    <testCase enabled="True" paramPath="">U易联/登陆</testCase>
+    <testCase enabled="True" paramPath="">U易联/商城/商品管理</testCase>
+    <testCase enabled="True" paramPath="">U易联/登出</testCase>
+  </scene>
+  <scene description="脚本执行顺序为子标签排列顺序">
+    <testCase enabled="True" paramPath="">U易联/登陆</testCase>
+    <testCase enabled="True" paramPath="">U易联/商城/店内收银明细</testCase>
+    <testCase enabled="True" paramPath="">U易联/登出</testCase>
+  </scene>
+    <scene description="脚本执行顺序为子标签排列顺序">
+    <testCase enabled="True" paramPath="">U易联/登陆</testCase>
+    <testCase enabled="True" paramPath="">U易联/商城/在线促销</testCase>
+    <testCase enabled="True" paramPath="">U易联/登出</testCase>
+  </scene>
+  <scene description="脚本执行顺序为子标签排列顺序">
+    <testCase enabled="True" paramPath="">U易联/登陆</testCase>
+    <testCase enabled="True" paramPath="">U易联/商城/店铺设置</testCase>
+    <testCase enabled="True" paramPath="">U易联/登出</testCase>
+  </scene>
+  <scene description="脚本执行顺序为子标签排列顺序">
+    <testCase enabled="True" paramPath="">U易联/登陆</testCase>
+    <testCase enabled="True" paramPath="">U易联/商城/快递公司</testCase>
+    <testCase enabled="True" paramPath="">U易联/登出</testCase>
+  </scene>
+  <scene description="脚本执行顺序为子标签排列顺序">
+    <testCase enabled="True" paramPath="">U易联/报表登陆</testCase>
+    <testCase enabled="True" paramPath="">U易联/商城/订单分析</testCase>
+    <testCase enabled="True" paramPath="">U易联/登出</testCase>
+  </scene>
+
+  <scene description="脚本执行顺序为子标签排列顺序">
+    <testCase enabled="True" paramPath="">U易联/登陆</testCase>
+    <testCase enabled="True" paramPath="">U易联/商城/门店员工</testCase>
+    <testCase enabled="True" paramPath="">U易联/登出</testCase>
+  </scene>
+  <scene description="脚本执行顺序为子标签排列顺序">
+    <testCase enabled="True" paramPath="">U易联/登陆</testCase>
+    <testCase enabled="True" paramPath="">U易联/商城/门店档案</testCase>
+    <testCase enabled="True" paramPath="">U易联/登出</testCase>
+  </scene>
+  <scene description="脚本执行顺序为子标签排列顺序">
+    <testCase enabled="True" paramPath="">U易联/登陆</testCase>
+    <testCase enabled="True" paramPath="">U易联/商城/门店职位</testCase>
+    <testCase enabled="True" paramPath="">U易联/登出</testCase>
+  </scene>
+
+
+
+  <scene description="脚本执行顺序为子标签排列顺序">
+    <testCase enabled="True" paramPath="">U易联/登陆</testCase>
+    <testCase enabled="True" paramPath="">U易联/微信/二维码</testCase>
+    <testCase enabled="True" paramPath="">U易联/登出</testCase>
+  </scene>
+  <scene description="脚本执行顺序为子标签排列顺序">
+    <testCase enabled="True" paramPath="">U易联/登陆</testCase>
+    <testCase enabled="True" paramPath="">U易联/微信/公众号绑定</testCase>
+    <testCase enabled="True" paramPath="">U易联/登出</testCase>
+  </scene>
+  <scene description="脚本执行顺序为子标签排列顺序">
+    <testCase enabled="True" paramPath="">U易联/登陆</testCase>
+    <testCase enabled="True" paramPath="">U易联/微信/刮刮乐</testCase>
+    <testCase enabled="True" paramPath="">U易联/登出</testCase>
+  </scene>
+  <scene description="脚本执行顺序为子标签排列顺序">
+    <testCase enabled="True" paramPath="">U易联/登陆</testCase>
+    <testCase enabled="True" paramPath="">U易联/微信/单图文消息</testCase>
+    <testCase enabled="True" paramPath="">U易联/登出</testCase>
+  </scene>
+  <scene description="脚本执行顺序为子标签排列顺序">
+    <testCase enabled="True" paramPath="">U易联/报表登陆</testCase>
+    <testCase enabled="True" paramPath="">U易联/微信/图文分析</testCase>
+    <testCase enabled="True" paramPath="">U易联/登出</testCase>
+  </scene>
+  <scene description="脚本执行顺序为子标签排列顺序">
+    <testCase enabled="True" paramPath="">U易联/登陆</testCase>
+    <testCase enabled="True" paramPath="">U易联/微信/多图文消息</testCase>
+    <testCase enabled="True" paramPath="">U易联/登出</testCase>
+  </scene>
+  <scene description="脚本执行顺序为子标签排列顺序">
+    <testCase enabled="True" paramPath="">U易联/登陆</testCase>
+    <testCase enabled="True" paramPath="">U易联/微信/大转盘</testCase>
+    <testCase enabled="True" paramPath="">U易联/登出</testCase>
+  </scene>
+  <scene description="脚本执行顺序为子标签排列顺序">
+    <testCase enabled="True" paramPath="">U易联/登陆</testCase>
+    <testCase enabled="True" paramPath="">U易联/微信/微信墙</testCase>
+    <testCase enabled="True" paramPath="">U易联/登出</testCase>
+  </scene>
+  <scene description="脚本执行顺序为子标签排列顺序">
+    <testCase enabled="True" paramPath="">U易联/登陆</testCase>
+    <testCase enabled="True" paramPath="">U易联/微信/微信菜单</testCase>
+    <testCase enabled="True" paramPath="">U易联/登出</testCase>
+  </scene>
+  <scene description="脚本执行顺序为子标签排列顺序">
+    <testCase enabled="True" paramPath="">U易联/登陆</testCase>
+    <testCase enabled="True" paramPath="">U易联/微信/微投票</testCase>
+    <testCase enabled="True" paramPath="">U易联/登出</testCase>
+  </scene>
+   <scene description="脚本执行顺序为子标签排列顺序">
+    <testCase enabled="True" paramPath="">U易联/登陆</testCase>
+    <testCase enabled="True" paramPath="">U易联/微信/微报名</testCase>
+    <testCase enabled="True" paramPath="">U易联/登出</testCase>
+  </scene>
+   <scene description="脚本执行顺序为子标签排列顺序">
+    <testCase enabled="True" paramPath="">U易联/登陆</testCase>
+    <testCase enabled="True" paramPath="">U易联/微信/微网站</testCase>
+    <testCase enabled="True" paramPath="">U易联/登出</testCase>
+  </scene>
+  <scene description="脚本执行顺序为子标签排列顺序">
+    <testCase enabled="True" paramPath="">U易联/登陆</testCase>
+    <testCase enabled="True" paramPath="">U易联/微信/微调查</testCase>
+    <testCase enabled="True" paramPath="">U易联/登出</testCase>
+  </scene>
+  <scene description="脚本执行顺序为子标签排列顺序">
+    <testCase enabled="True" paramPath="">U易联/登陆</testCase>
+    <testCase enabled="True" paramPath="">U易联/微信/支付配置</testCase>
+    <testCase enabled="True" paramPath="">U易联/登出</testCase>
+  </scene>
+  <scene description="脚本执行顺序为子标签排列顺序">
+    <testCase enabled="True" paramPath="">U易联/报表登陆</testCase>
+    <testCase enabled="True" paramPath="">U易联/微信/数据总览</testCase>
+    <testCase enabled="True" paramPath="">U易联/登出</testCase>
+  </scene>
+  <scene description="脚本执行顺序为子标签排列顺序">
+    <testCase enabled="True" paramPath="">U易联/登陆</testCase>
+    <testCase enabled="True" paramPath="">U易联/微信/文本消息</testCase>
+    <testCase enabled="True" paramPath="">U易联/登出</testCase>
+  </scene>
+  <scene description="脚本执行顺序为子标签排列顺序">
+    <testCase enabled="True" paramPath="">U易联/登陆</testCase>
+    <testCase enabled="True" paramPath="">U易联/微信/模板消息</testCase>
+    <testCase enabled="True" paramPath="">U易联/登出</testCase>
+  </scene>
+  <scene description="脚本执行顺序为子标签排列顺序">
+    <testCase enabled="True" paramPath="">U易联/报表登陆</testCase>
+    <testCase enabled="True" paramPath="">U易联/微信/流量分析</testCase>
+    <testCase enabled="True" paramPath="">U易联/登出</testCase>
+  </scene>
+  <scene description="脚本执行顺序为子标签排列顺序">
+    <testCase enabled="True" paramPath="">U易联/登陆</testCase>
+    <testCase enabled="True" paramPath="">U易联/微信/海报</testCase>
+    <testCase enabled="True" paramPath="">U易联/登出</testCase>
+  </scene>
+  <scene description="脚本执行顺序为子标签排列顺序">
+    <testCase enabled="True" paramPath="">U易联/报表登陆</testCase>
+    <testCase enabled="True" paramPath="">U易联/微信/消息分析</testCase>
+    <testCase enabled="True" paramPath="">U易联/登出</testCase>
+  </scene>
+  <scene description="脚本执行顺序为子标签排列顺序">
+    <testCase enabled="True" paramPath="">U易联/登陆</testCase>
+    <testCase enabled="True" paramPath="">U易联/微信/渠道档案</testCase>
+    <testCase enabled="True" paramPath="">U易联/登出</testCase>
+  </scene>
+  <scene description="脚本执行顺序为子标签排列顺序">
+    <testCase enabled="True" paramPath="">U易联/登陆</testCase>
+    <testCase enabled="True" paramPath="">U易联/微信/现金红包</testCase>
+    <testCase enabled="True" paramPath="">U易联/登出</testCase>
+  </scene>
+  <scene description="脚本执行顺序为子标签排列顺序">
+    <testCase enabled="True" paramPath="">U易联/报表登陆</testCase>
+    <testCase enabled="True" paramPath="">U易联/微信/用户分析</testCase>
+    <testCase enabled="True" paramPath="">U易联/登出</testCase>
+  </scene>
+  <scene description="脚本执行顺序为子标签排列顺序">
+    <testCase enabled="True" paramPath="">U易联/登陆</testCase>
+    <testCase enabled="True" paramPath="">U易联/微信/砸金蛋</testCase>
+    <testCase enabled="True" paramPath="">U易联/登出</testCase>
+  </scene>
+  <scene description="脚本执行顺序为子标签排列顺序">
+    <testCase enabled="True" paramPath="">U易联/登陆</testCase>
+    <testCase enabled="True" paramPath="">U易联/微信/粉丝管理</testCase>
+    <testCase enabled="True" paramPath="">U易联/登出</testCase>
+  </scene>
+  <scene description="脚本执行顺序为子标签排列顺序">
+    <testCase enabled="True" paramPath="">U易联/登陆</testCase>
+    <testCase enabled="True" paramPath="">U易联/微信/红包</testCase>
+    <testCase enabled="True" paramPath="">U易联/登出</testCase>
+  </scene>
+  <scene description="脚本执行顺序为子标签排列顺序">
+    <testCase enabled="True" paramPath="">U易联/登陆</testCase>
+    <testCase enabled="True" paramPath="">U易联/微信/群发消息</testCase>
+    <testCase enabled="True" paramPath="">U易联/登出</testCase>
+  </scene>
+
+
+
+
+  <scene description="脚本执行顺序为子标签排列顺序">
+    <testCase enabled="True" paramPath="">U易联/登陆</testCase>
+    <testCase enabled="True" paramPath="">U易联/服务/专属客服会话</testCase>
+    <testCase enabled="True" paramPath="">U易联/登出</testCase>
+  </scene>
+  <scene description="脚本执行顺序为子标签排列顺序">
+    <testCase enabled="True" paramPath="">U易联/登陆</testCase>
+    <testCase enabled="True" paramPath="">U易联/服务/专属客服管理</testCase>
+    <testCase enabled="True" paramPath="">U易联/登出</testCase>
+  </scene>
+  <scene description="脚本执行顺序为子标签排列顺序">
+    <testCase enabled="True" paramPath="">U易联/登陆</testCase>
+    <testCase enabled="True" paramPath="">U易联/服务/客服会话</testCase>
+    <testCase enabled="True" paramPath="">U易联/登出</testCase>
+  </scene>
+  <scene description="脚本执行顺序为子标签排列顺序">
+    <testCase enabled="True" paramPath="">U易联/登陆</testCase>
+    <testCase enabled="True" paramPath="">U易联/服务/客服管理</testCase>
+    <testCase enabled="True" paramPath="">U易联/登出</testCase>
+  </scene>
+  <scene description="脚本执行顺序为子标签排列顺序">
+    <testCase enabled="True" paramPath="">U易联/登陆</testCase>
+    <testCase enabled="True" paramPath="">U易联/服务/客服评价</testCase>
+    <testCase enabled="True" paramPath="">U易联/登出</testCase>
+  </scene>
+  <scene description="脚本执行顺序为子标签排列顺序">
+    <testCase enabled="True" paramPath="">U易联/登陆</testCase>
+    <testCase enabled="True" paramPath="">U易联/服务/服务类型</testCase>
+    <testCase enabled="True" paramPath="">U易联/登出</testCase>
+  </scene>
+  <scene description="脚本执行顺序为子标签排列顺序">
+    <testCase enabled="True" paramPath="">U易联/登陆</testCase>
+    <testCase enabled="True" paramPath="">U易联/服务/网店档案</testCase>
+    <testCase enabled="True" paramPath="">U易联/登出</testCase>
+  </scene>
+  <scene description="脚本执行顺序为子标签排列顺序">
+    <testCase enabled="True" paramPath="">U易联/报表登陆</testCase>
+    <testCase enabled="True" paramPath="">U易联/服务/防伪码分析</testCase>
+    <testCase enabled="True" paramPath="">U易联/登出</testCase>
+  </scene>
+  <scene description="脚本执行顺序为子标签排列顺序">
+    <testCase enabled="True" paramPath="">U易联/登陆</testCase>
+    <testCase enabled="True" paramPath="">U易联/服务/防伪码档案</testCase>
+    <testCase enabled="True" paramPath="">U易联/登出</testCase>
+  </scene>
+  <scene description="脚本执行顺序为子标签排列顺序">
+    <testCase enabled="True" paramPath="">U易联/登陆</testCase>
+    <testCase enabled="True" paramPath="">U易联/服务/防伪设置</testCase>
+    <testCase enabled="True" paramPath="">U易联/登出</testCase>
+  </scene>
+  <scene description="脚本执行顺序为子标签排列顺序">
+    <testCase enabled="True" paramPath="">U易联/登陆</testCase>
+    <testCase enabled="True" paramPath="">U易联/服务/预约服务</testCase>
+    <testCase enabled="True" paramPath="">U易联/登出</testCase>
+  </scene>
+
+
+
+  <scene description="脚本执行顺序为子标签排列顺序">
+    <testCase enabled="True" paramPath="">U易联/登陆</testCase>
+    <testCase enabled="True" paramPath="">U易联/设置/会员体系</testCase>
+    <testCase enabled="True" paramPath="">U易联/登出</testCase>
+  </scene>
+  <scene description="脚本执行顺序为子标签排列顺序">
+    <testCase enabled="True" paramPath="">U易联/登陆</testCase>
+    <testCase enabled="True" paramPath="">U易联/设置/基础设置</testCase>
+    <testCase enabled="True" paramPath="">U易联/登出</testCase>
+  </scene>
+  <scene description="脚本执行顺序为子标签排列顺序">
+    <testCase enabled="True" paramPath="">U易联/登陆</testCase>
+    <testCase enabled="True" paramPath="">U易联/设置/授权信息</testCase>
+    <testCase enabled="True" paramPath="">U易联/登出</testCase>
+  </scene>
+  <scene description="脚本执行顺序为子标签排列顺序">
+    <testCase enabled="True" paramPath="">U易联/登陆</testCase>
+    <testCase enabled="True" paramPath="">U易联/设置/操作员管理</testCase>
+    <testCase enabled="True" paramPath="">U易联/登出</testCase>
+  </scene>
+  <scene description="脚本执行顺序为子标签排列顺序">
+    <testCase enabled="True" paramPath="">U易联/登陆</testCase>
+    <testCase enabled="True" paramPath="">U易联/设置/短信设置</testCase>
+    <testCase enabled="True" paramPath="">U易联/登出</testCase>
+  </scene>
+  <scene description="脚本执行顺序为子标签排列顺序">
+    <testCase enabled="True" paramPath="">U易联/登陆</testCase>
+    <testCase enabled="True" paramPath="">U易联/设置/站内消息</testCase>
+    <testCase enabled="True" paramPath="">U易联/登出</testCase>
+  </scene>
+  <scene description="脚本执行顺序为子标签排列顺序">
+    <testCase enabled="True" paramPath="">U易联/登陆</testCase>
+    <testCase enabled="True" paramPath="">U易联/设置/账户信息</testCase>
+    <testCase enabled="True" paramPath="">U易联/登出</testCase>
+  </scene>
+    <scene description="脚本执行顺序为子标签排列顺序">
+    <testCase enabled="True" paramPath="">U易联/登陆</testCase>
+    <testCase enabled="True" paramPath="">U易联/首页/首页</testCase>
+    <testCase enabled="True" paramPath="">U易联/登出</testCase>
+  </scene>
+
+</catalog>

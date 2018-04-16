@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='utf-8'?>
+<catalog>
+  <connection description="浏览器及server地址">
+    <hub browser="Chrome" enabled="True"></hub>
+  </connection>
+  <scene description="脚本执行顺序为子标签排列顺序">
+    <testCase enabled="True" paramPath="">U易联企业号/登陆</testCase>
+    <testCase enabled="True" paramPath="">U易联企业号/应用/会议室管理</testCase>
+    <testCase enabled="True" paramPath="">U易联企业号/登出</testCase>
+  </scene>
+  <scene description="脚本执行顺序为子标签排列顺序">
+    <testCase enabled="True" paramPath="">U易联企业号/登陆</testCase>
+    <testCase enabled="True" paramPath="">U易联企业号/应用/应用管理</testCase>
+    <testCase enabled="True" paramPath="">U易联企业号/登出</testCase>
+  </scene>
+  <scene description="脚本执行顺序为子标签排列顺序">
+    <testCase enabled="True" paramPath="">U易联企业号/登陆</testCase>
+    <testCase enabled="True" paramPath="">U易联企业号/应用/打卡记录</testCase>
+    <testCase enabled="True" paramPath="">U易联企业号/登出</testCase>
+  </scene>
+  <scene description="脚本执行顺序为子标签排列顺序">
+    <testCase enabled="True" paramPath="">U易联企业号/登陆</testCase>
+    <testCase enabled="True" paramPath="">U易联企业号/应用/服务功能</testCase>
+    <testCase enabled="True" paramPath="">U易联企业号/登出</testCase>
+  </scene>
+  <scene description="脚本执行顺序为子标签排列顺序">
+    <testCase enabled="True" paramPath="">U易联企业号/登陆</testCase>
+    <testCase enabled="True" paramPath="">U易联企业号/应用/服务源注册</testCase>
+    <testCase enabled="True" paramPath="">U易联企业号/登出</testCase>
+  </scene>
+  <scene description="脚本执行顺序为子标签排列顺序">
+    <testCase enabled="True" paramPath="">U易联企业号/登陆</testCase>
+    <testCase enabled="True" paramPath="">U易联企业号/应用/菜单模板</testCase>
+    <testCase enabled="True" paramPath="">U易联企业号/登出</testCase>
+  </scene>
+
+
+
+
+  <scene description="脚本执行顺序为子标签排列顺序">
+    <testCase enabled="True" paramPath="">U易联企业号/登陆</testCase>
+    <testCase enabled="True" paramPath="">U易联企业号/微信/企业号绑定</testCase>
+    <testCase enabled="True" paramPath="">U易联企业号/登出</testCase>
+  </scene>
+  <scene description="脚本执行顺序为子标签排列顺序">
+    <testCase enabled="True" paramPath="">U易联企业号/登陆</testCase>
+    <testCase enabled="True" paramPath="">U易联企业号/微信/微信菜单</testCase>
+    <testCase enabled="True" paramPath="">U易联企业号/登出</testCase>
+  </scene>
+  <scene description="脚本执行顺序为子标签排列顺序">
+    <testCase enabled="True" paramPath="">U易联企业号/登陆</testCase>
+    <testCase enabled="True" paramPath="">U易联企业号/微信/群发消息</testCase>
+    <testCase enabled="True" paramPath="">U易联企业号/登出</testCase>
+  </scene>
+  <scene description="脚本执行顺序为子标签排列顺序">
+    <testCase enabled="True" paramPath="">U易联企业号/登陆</testCase>
+    <testCase enabled="True" paramPath="">U易联企业号/素材/单图文消息</testCase>
+    <testCase enabled="True" paramPath="">U易联企业号/登出</testCase>
+  </scene>
+  <scene description="脚本执行顺序为子标签排列顺序">
+    <testCase enabled="True" paramPath="">U易联企业号/登陆</testCase>
+    <testCase enabled="True" paramPath="">U易联企业号/素材/多图文消息</testCase>
+    <testCase enabled="True" paramPath="">U易联企业号/登出</testCase>
+  </scene>
+  <scene description="脚本执行顺序为子标签排列顺序">
+    <testCase enabled="True" paramPath="">U易联企业号/登陆</testCase>
+    <testCase enabled="True" paramPath="">U易联企业号/素材/文本消息</testCase>
+    <testCase enabled="True" paramPath="">U易联企业号/登出</testCase>
+  </scene>
+
+  <scene description="脚本执行顺序为子标签排列顺序">
+    <testCase enabled="True" paramPath="">U易联企业号/登陆</testCase>
+    <testCase enabled="True" paramPath="">U易联企业号/设置/操作员管理</testCase>
+    <testCase enabled="True" paramPath="">U易联企业号/登出</testCase>
+  </scene>
+  <scene description="脚本执行顺序为子标签排列顺序">
+    <testCase enabled="True" paramPath="">U易联企业号/登陆</testCase>
+    <testCase enabled="True" paramPath="">U易联企业号/设置/短信设置</testCase>
+    <testCase enabled="True" paramPath="">U易联企业号/登出</testCase>
+  </scene>
+  <scene description="脚本执行顺序为子标签排列顺序">
+    <testCase enabled="True" paramPath="">U易联企业号/登陆</testCase>
+    <testCase enabled="True" paramPath="">U易联企业号/设置/站内消息</testCase>
+    <testCase enabled="True" paramPath="">U易联企业号/登出</testCase>
+  </scene>
+  <scene description="脚本执行顺序为子标签排列顺序">
+    <testCase enabled="True" paramPath="">U易联企业号/登陆</testCase>
+    <testCase enabled="True" paramPath="">U易联企业号/设置/账户消息</testCase>
+    <testCase enabled="True" paramPath="">U易联企业号/登出</testCase>
+  </scene>
+</catalog>

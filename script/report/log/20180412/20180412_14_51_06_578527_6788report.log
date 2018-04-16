@@ -1,0 +1,16 @@
+2018-04-12 14:51:06 Start.
+2018-04-12 14:51:06 [ERROR-1004]:引入测试方案模块失败引发的异常.U商城/商城前端登陆退出/前端登陆.inconsistent use of tabs and spaces in indentation (前端登陆.py, line 29)
+2018-04-12 14:51:06 场景<1>开始.
+2018-04-12 14:51:10 chrome浏览器启动成功.
+2018-04-12 14:51:10 开始加载脚本...
+2018-04-12 14:51:10 脚本<1>：使用前端下单 加载成功.脚本路径：script/testCase/U商城/U商城核心业务流程/周期购业务流程/使用前端下单
+2018-04-12 14:51:10 脚本加载完成...
+2018-04-12 14:51:10 开始运行脚本<class 'script.testCase.U商城.U商城核心业务流程.周期购业务流程.使用前端下单.EasyCase'>
+2018-04-12 14:51:12 行号:0    PASS   最大化浏览器窗口[maximize_window]  用时:1.947s  
+2018-04-12 14:52:03 行号:19   FAIL   查找元素[find_element]  用时:50.064s  参数:{'list': '', 'dict': {'css selector': '#search > div > div.search_box_t > div > input[type="text"]'}} 页面中没有该元素.NoSuchElementException
+2018-04-12 14:52:04 行号:19   ERROR  清除文本[clear]  用时:0.000s  由于未找到元素，操作失败
+2018-04-12 14:52:29 行号:19   PASS   查找元素[find_element]  用时:24.883s  
+2018-04-12 14:52:30 行号:19   ERROR  模拟输入[send_keys]  用时:0.000s  由于未找到元素，操作失败
+2018-04-12 14:52:31 行号:19   ERROR  查找元素[find_element]  用时:0.038s  [decorator.findElement_dec]:no such window: target window already closed
+2018-04-12 14:52:31 行号:19   ERROR  左键单击[click]  用时:0.000s  由于未找到元素，操作失败
+2018-04-12 14:52:35 行号:20   ERROR  查找元素[find_element]  用时:0.025s  [decorator.findElement_dec]:no such window: target window already closed

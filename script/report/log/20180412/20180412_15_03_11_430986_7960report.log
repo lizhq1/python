@@ -1,0 +1,95 @@
+2018-04-12 15:03:11 Start.
+2018-04-12 15:03:11 场景<1>开始.
+2018-04-12 15:03:15 chrome浏览器启动成功.
+2018-04-12 15:03:15 开始加载脚本...
+2018-04-12 15:03:15 脚本<1>：U商城登录 加载成功.脚本路径：script/testCase/U商城/商城后端登陆退出/U商城登录
+2018-04-12 15:03:15 脚本<2>：站内信设置 加载成功.脚本路径：script/testCase/U商城/商城设置/站内信设置/站内信设置
+2018-04-12 15:03:15 脚本加载完成...
+2018-04-12 15:03:15 开始运行脚本<class 'script.testCase.U商城.商城后端登陆退出.U商城登录.EasyCase'>
+2018-04-12 15:03:17 行号:0    PASS   最大化浏览器窗口[maximize_window]  用时:1.917s  
+2018-04-12 15:03:38 行号:33   PASS   访问页面[get]  用时:18.400s  
+2018-04-12 15:03:39 行号:34   PASS   查找元素[find_element]  用时:0.044s  
+2018-04-12 15:03:39 行号:34   PASS   左键单击[click]  用时:0.072s  
+2018-04-12 15:03:40 行号:35   PASS   关闭窗口[close]  用时:0.074s  
+2018-04-12 15:03:41 行号:37   PASS   切换到窗口[window]  用时:0.013s  
+2018-04-12 15:03:42 行号:38   PASS   查找元素[find_element]  用时:0.060s  
+2018-04-12 15:03:43 行号:38   PASS   清除文本[clear]  用时:0.042s  
+2018-04-12 15:03:49 行号:41   PASS   查找元素[find_element]  用时:0.050s  
+2018-04-12 15:03:50 行号:41   PASS   模拟输入[send_keys]  用时:0.106s  
+2018-04-12 15:03:56 行号:43   PASS   查找元素[find_element]  用时:0.051s  
+2018-04-12 15:03:56 行号:43   PASS   清除文本[clear]  用时:0.048s  
+2018-04-12 15:04:02 行号:46   PASS   查找元素[find_element]  用时:0.050s  
+2018-04-12 15:04:03 行号:46   PASS   模拟输入[send_keys]  用时:0.108s  
+2018-04-12 15:04:09 行号:48   PASS   查找元素[find_element]  用时:0.038s  
+2018-04-12 15:04:09 行号:48   PASS   左键单击[click]  用时:0.071s  
+2018-04-12 15:04:20 行号:52   TRUE   断言：实例[assertIsInstance] 用时:0.000s TRUE.
+2018-04-12 15:04:20 行号:52   TRUE   断言：实例[assertIsInstance] 用时:0.000s TRUE.
+2018-04-12 15:04:20 行号:52   TRUE   断言：相等[assertEqual] 用时:0.001s TRUE.
+2018-04-12 15:04:25 脚本运行完毕...
+2018-04-12 15:04:25 开始运行脚本<class 'script.testCase.U商城.商城设置.站内信设置.站内信设置.EasyCase'>
+2018-04-12 15:04:26 行号:0    PASS   最大化浏览器窗口[maximize_window]  用时:0.020s  
+2018-04-12 15:04:27 行号:23   PASS   查找元素[find_element]  用时:0.045s  
+2018-04-12 15:04:27 行号:23   PASS   左键单击[click]  用时:0.069s  
+2018-04-12 15:04:31 行号:23   PASS   查找元素[find_element]  用时:0.042s  
+2018-04-12 15:04:32 行号:23   PASS   左键单击[click]  用时:0.058s  
+2018-04-12 15:04:38 行号:24   PASS   查找元素[find_element]  用时:0.045s  
+2018-04-12 15:04:38 行号:24   PASS   左键单击[click]  用时:0.058s  
+2018-04-12 15:04:41 行号:24   PASS   查找元素[find_element]  用时:0.026s  
+2018-04-12 15:04:42 行号:24   PASS   左键单击[click]  用时:0.072s  
+2018-04-12 15:04:45 行号:24   PASS   查找元素[find_element]  用时:0.039s  
+2018-04-12 15:04:46 行号:24   PASS   左键单击[click]  用时:0.069s  
+2018-04-12 15:04:49 行号:24   PASS   查找元素[find_element]  用时:0.040s  
+2018-04-12 15:04:49 行号:24   PASS   左键单击[click]  用时:0.072s  
+2018-04-12 15:04:53 行号:24   PASS   查找元素[find_element]  用时:0.038s  
+2018-04-12 15:04:54 行号:24   PASS   左键单击[click]  用时:0.073s  
+2018-04-12 15:04:55 行号:24   PASS   查找元素[find_element]  用时:0.020s  
+2018-04-12 15:04:55 行号:24   PASS   左键单击[click]  用时:0.093s  
+2018-04-12 15:04:56 行号:24   PASS   查找元素[find_element]  用时:0.040s  
+2018-04-12 15:04:57 行号:24   PASS   左键单击[click]  用时:0.068s  
+2018-04-12 15:05:00 行号:24   PASS   查找元素[find_element]  用时:0.046s  
+2018-04-12 15:05:01 行号:24   PASS   左键单击[click]  用时:0.070s  
+2018-04-12 15:05:04 行号:24   PASS   查找元素[find_element]  用时:0.037s  
+2018-04-12 15:05:04 行号:24   PASS   左键单击[click]  用时:0.064s  
+2018-04-12 15:05:07 行号:24   PASS   查找元素[find_element]  用时:0.024s  
+2018-04-12 15:05:08 行号:24   PASS   左键单击[click]  用时:0.072s  
+2018-04-12 15:05:12 行号:24   PASS   查找元素[find_element]  用时:0.043s  
+2018-04-12 15:05:12 行号:24   PASS   左键单击[click]  用时:0.061s  
+2018-04-12 15:05:32 行号:24   ERROR  查找元素[find_element]  用时:18.970s  [decorator.findElement_dec]:unknown error: Runtime.evaluate threw exception: TypeError: Cannot read property 'click' of null
+2018-04-12 15:05:33 行号:24   ERROR  左键单击[click]  用时:0.000s  由于未找到元素，操作失败
+2018-04-12 15:05:34 行号:24   ERROR  查找元素[find_element]  用时:0.120s  [decorator.findElement_dec]:unknown error: Runtime.evaluate threw exception: TypeError: Cannot read property 'click' of null
+2018-04-12 15:05:35 行号:24   ERROR  左键单击[click]  用时:0.000s  由于未找到元素，操作失败
+2018-04-12 15:05:38 行号:24   ERROR  查找元素[find_element]  用时:0.112s  [decorator.findElement_dec]:unknown error: Runtime.evaluate threw exception: TypeError: Cannot read property 'click' of null
+2018-04-12 15:05:38 行号:24   ERROR  左键单击[click]  用时:0.000s  由于未找到元素，操作失败
+2018-04-12 15:05:41 行号:24   ERROR  查找元素[find_element]  用时:0.117s  [decorator.findElement_dec]:unknown error: Runtime.evaluate threw exception: TypeError: Cannot read property 'click' of null
+2018-04-12 15:05:42 行号:24   ERROR  左键单击[click]  用时:0.000s  由于未找到元素，操作失败
+2018-04-12 15:05:45 行号:24   ERROR  查找元素[find_element]  用时:0.100s  [decorator.findElement_dec]:unknown error: Runtime.evaluate threw exception: TypeError: Cannot read property 'click' of null
+2018-04-12 15:05:45 行号:24   ERROR  左键单击[click]  用时:0.000s  由于未找到元素，操作失败
+2018-04-12 15:05:49 行号:24   ERROR  查找元素[find_element]  用时:0.092s  [decorator.findElement_dec]:unknown error: Runtime.evaluate threw exception: TypeError: Cannot read property 'click' of null
+2018-04-12 15:05:50 行号:24   ERROR  左键单击[click]  用时:0.000s  由于未找到元素，操作失败
+2018-04-12 15:05:51 行号:24   ERROR  查找元素[find_element]  用时:0.114s  [decorator.findElement_dec]:unknown error: Runtime.evaluate threw exception: TypeError: Cannot read property 'click' of null
+2018-04-12 15:05:52 行号:24   ERROR  左键单击[click]  用时:0.000s  由于未找到元素，操作失败
+2018-04-12 15:05:53 行号:24   ERROR  查找元素[find_element]  用时:0.092s  [decorator.findElement_dec]:unknown error: Runtime.evaluate threw exception: TypeError: Cannot read property 'click' of null
+2018-04-12 15:05:53 行号:24   ERROR  左键单击[click]  用时:0.000s  由于未找到元素，操作失败
+2018-04-12 15:05:56 行号:24   ERROR  查找元素[find_element]  用时:0.117s  [decorator.findElement_dec]:unknown error: Runtime.evaluate threw exception: TypeError: Cannot read property 'click' of null
+2018-04-12 15:05:57 行号:24   ERROR  左键单击[click]  用时:0.000s  由于未找到元素，操作失败
+2018-04-12 15:06:00 行号:24   ERROR  查找元素[find_element]  用时:0.110s  [decorator.findElement_dec]:unknown error: Runtime.evaluate threw exception: TypeError: Cannot read property 'click' of null
+2018-04-12 15:06:00 行号:24   ERROR  左键单击[click]  用时:0.000s  由于未找到元素，操作失败
+2018-04-12 15:06:03 行号:24   ERROR  查找元素[find_element]  用时:0.105s  [decorator.findElement_dec]:unknown error: Runtime.evaluate threw exception: TypeError: Cannot read property 'click' of null
+2018-04-12 15:06:04 行号:24   ERROR  左键单击[click]  用时:0.000s  由于未找到元素，操作失败
+2018-04-12 15:06:08 行号:24   ERROR  查找元素[find_element]  用时:0.113s  [decorator.findElement_dec]:unknown error: Runtime.evaluate threw exception: TypeError: Cannot read property 'click' of null
+2018-04-12 15:06:09 行号:24   ERROR  左键单击[click]  用时:0.000s  由于未找到元素，操作失败
+2018-04-12 15:06:10 行号:24   ERROR  查找元素[find_element]  用时:0.090s  [decorator.findElement_dec]:unknown error: Runtime.evaluate threw exception: TypeError: Cannot read property 'click' of null
+2018-04-12 15:06:10 行号:24   ERROR  左键单击[click]  用时:0.000s  由于未找到元素，操作失败
+2018-04-12 15:06:11 行号:24   ERROR  查找元素[find_element]  用时:0.111s  [decorator.findElement_dec]:unknown error: Runtime.evaluate threw exception: TypeError: Cannot read property 'click' of null
+2018-04-12 15:06:12 行号:24   ERROR  左键单击[click]  用时:0.000s  由于未找到元素，操作失败
+2018-04-12 15:06:18 脚本运行完毕...
+2018-04-12 15:06:18 行号:0    PASS   关闭浏览器[quit]  用时:0.044s  
+2018-04-12 15:06:22 场景<1>结束.用时:190.878s.
+2018-04-12 15:06:22 场景统计结果：PASS: 44(61.11%),FAIL:  0(0.00%),ERROR: 28(38.89%),TRUE:  3,FALSE:  0
+
+2018-04-12 15:06:22 ----------------------------------------
+2018-04-12 15:06:22 End.
+2018-04-12 15:06:22 测试方案统计结果:
+                    场景<1>:PASS: 44(61.11%),FAIL:  0(0.00%),ERROR: 28(38.89%),TRUE:  3,FALSE:  0
+                    总   计:PASS: 44(61.11%),FAIL:  0(0.00%),ERROR: 28(38.89%),TRUE:  3,FALSE:  0
+

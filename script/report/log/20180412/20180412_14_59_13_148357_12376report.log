@@ -1,0 +1,95 @@
+2018-04-12 14:59:13 Start.
+2018-04-12 14:59:13 场景<1>开始.
+2018-04-12 14:59:17 chrome浏览器启动成功.
+2018-04-12 14:59:17 开始加载脚本...
+2018-04-12 14:59:17 脚本<1>：U商城登录 加载成功.脚本路径：script/testCase/U商城/商城后端登陆退出/U商城登录
+2018-04-12 14:59:17 脚本<2>：站内信设置 加载成功.脚本路径：script/testCase/U商城/商城设置/站内信设置/站内信设置
+2018-04-12 14:59:17 脚本加载完成...
+2018-04-12 14:59:17 开始运行脚本<class 'script.testCase.U商城.商城后端登陆退出.U商城登录.EasyCase'>
+2018-04-12 14:59:19 行号:0    PASS   最大化浏览器窗口[maximize_window]  用时:2.050s  
+2018-04-12 14:59:48 行号:33   PASS   访问页面[get]  用时:26.734s  
+2018-04-12 14:59:49 行号:34   PASS   查找元素[find_element]  用时:0.042s  
+2018-04-12 14:59:50 行号:34   PASS   左键单击[click]  用时:0.052s  
+2018-04-12 14:59:51 行号:35   PASS   关闭窗口[close]  用时:0.058s  
+2018-04-12 14:59:52 行号:37   PASS   切换到窗口[window]  用时:0.012s  
+2018-04-12 14:59:53 行号:38   PASS   查找元素[find_element]  用时:0.057s  
+2018-04-12 14:59:53 行号:38   PASS   清除文本[clear]  用时:0.052s  
+2018-04-12 14:59:59 行号:41   PASS   查找元素[find_element]  用时:0.041s  
+2018-04-12 15:00:00 行号:41   PASS   模拟输入[send_keys]  用时:0.104s  
+2018-04-12 15:00:06 行号:43   PASS   查找元素[find_element]  用时:0.039s  
+2018-04-12 15:00:07 行号:43   PASS   清除文本[clear]  用时:0.054s  
+2018-04-12 15:00:13 行号:46   PASS   查找元素[find_element]  用时:0.047s  
+2018-04-12 15:00:13 行号:46   PASS   模拟输入[send_keys]  用时:0.106s  
+2018-04-12 15:00:19 行号:48   PASS   查找元素[find_element]  用时:0.044s  
+2018-04-12 15:00:20 行号:48   PASS   左键单击[click]  用时:0.077s  
+2018-04-12 15:00:31 行号:52   TRUE   断言：实例[assertIsInstance] 用时:0.000s TRUE.
+2018-04-12 15:00:31 行号:52   TRUE   断言：实例[assertIsInstance] 用时:0.000s TRUE.
+2018-04-12 15:00:31 行号:52   TRUE   断言：相等[assertEqual] 用时:0.001s TRUE.
+2018-04-12 15:00:36 脚本运行完毕...
+2018-04-12 15:00:36 开始运行脚本<class 'script.testCase.U商城.商城设置.站内信设置.站内信设置.EasyCase'>
+2018-04-12 15:00:36 行号:0    PASS   最大化浏览器窗口[maximize_window]  用时:0.021s  
+2018-04-12 15:00:37 行号:23   PASS   查找元素[find_element]  用时:0.038s  
+2018-04-12 15:00:38 行号:23   PASS   左键单击[click]  用时:0.066s  
+2018-04-12 15:00:42 行号:23   PASS   查找元素[find_element]  用时:0.036s  
+2018-04-12 15:00:42 行号:23   PASS   左键单击[click]  用时:0.060s  
+2018-04-12 15:00:48 行号:24   PASS   查找元素[find_element]  用时:0.047s  
+2018-04-12 15:00:49 行号:24   PASS   左键单击[click]  用时:0.071s  
+2018-04-12 15:00:52 行号:24   PASS   查找元素[find_element]  用时:0.039s  
+2018-04-12 15:00:52 行号:24   PASS   左键单击[click]  用时:0.055s  
+2018-04-12 15:00:55 行号:24   PASS   查找元素[find_element]  用时:0.037s  
+2018-04-12 15:00:56 行号:24   PASS   左键单击[click]  用时:0.083s  
+2018-04-12 15:00:59 行号:24   PASS   查找元素[find_element]  用时:0.040s  
+2018-04-12 15:01:00 行号:24   PASS   左键单击[click]  用时:0.068s  
+2018-04-12 15:01:04 行号:24   PASS   查找元素[find_element]  用时:0.046s  
+2018-04-12 15:01:04 行号:24   PASS   左键单击[click]  用时:0.076s  
+2018-04-12 15:01:05 行号:24   PASS   查找元素[find_element]  用时:0.046s  
+2018-04-12 15:01:06 行号:24   PASS   左键单击[click]  用时:0.073s  
+2018-04-12 15:01:07 行号:24   PASS   查找元素[find_element]  用时:0.043s  
+2018-04-12 15:01:07 行号:24   PASS   左键单击[click]  用时:0.068s  
+2018-04-12 15:01:10 行号:24   PASS   查找元素[find_element]  用时:0.038s  
+2018-04-12 15:01:11 行号:24   PASS   左键单击[click]  用时:0.068s  
+2018-04-12 15:01:37 行号:24   ERROR  查找元素[find_element]  用时:22.672s  [decorator.findElement_dec]:unknown error: Runtime.evaluate threw exception: TypeError: Cannot read property 'click' of null
+2018-04-12 15:01:37 行号:24   ERROR  左键单击[click]  用时:0.000s  由于未找到元素，操作失败
+2018-04-12 15:01:40 行号:24   ERROR  查找元素[find_element]  用时:0.119s  [decorator.findElement_dec]:unknown error: Runtime.evaluate threw exception: TypeError: Cannot read property 'click' of null
+2018-04-12 15:01:41 行号:24   ERROR  左键单击[click]  用时:0.000s  由于未找到元素，操作失败
+2018-04-12 15:01:45 行号:24   ERROR  查找元素[find_element]  用时:0.124s  [decorator.findElement_dec]:unknown error: Runtime.evaluate threw exception: TypeError: Cannot read property 'click' of null
+2018-04-12 15:01:45 行号:24   ERROR  左键单击[click]  用时:0.000s  由于未找到元素，操作失败
+2018-04-12 15:01:47 行号:24   ERROR  查找元素[find_element]  用时:0.109s  [decorator.findElement_dec]:unknown error: Runtime.evaluate threw exception: TypeError: Cannot read property 'click' of null
+2018-04-12 15:01:47 行号:24   ERROR  左键单击[click]  用时:0.000s  由于未找到元素，操作失败
+2018-04-12 15:01:48 行号:24   ERROR  查找元素[find_element]  用时:0.116s  [decorator.findElement_dec]:unknown error: Runtime.evaluate threw exception: TypeError: Cannot read property 'click' of null
+2018-04-12 15:01:49 行号:24   ERROR  左键单击[click]  用时:0.000s  由于未找到元素，操作失败
+2018-04-12 15:01:52 行号:24   ERROR  查找元素[find_element]  用时:0.135s  [decorator.findElement_dec]:unknown error: Runtime.evaluate threw exception: TypeError: Cannot read property 'click' of null
+2018-04-12 15:01:52 行号:24   ERROR  左键单击[click]  用时:0.000s  由于未找到元素，操作失败
+2018-04-12 15:01:55 行号:24   ERROR  查找元素[find_element]  用时:0.111s  [decorator.findElement_dec]:unknown error: Runtime.evaluate threw exception: TypeError: Cannot read property 'click' of null
+2018-04-12 15:01:56 行号:24   ERROR  左键单击[click]  用时:0.000s  由于未找到元素，操作失败
+2018-04-12 15:01:59 行号:24   ERROR  查找元素[find_element]  用时:0.119s  [decorator.findElement_dec]:unknown error: Runtime.evaluate threw exception: TypeError: Cannot read property 'click' of null
+2018-04-12 15:02:00 行号:24   ERROR  左键单击[click]  用时:0.000s  由于未找到元素，操作失败
+2018-04-12 15:02:04 行号:24   ERROR  查找元素[find_element]  用时:0.112s  [decorator.findElement_dec]:unknown error: Runtime.evaluate threw exception: TypeError: Cannot read property 'click' of null
+2018-04-12 15:02:04 行号:24   ERROR  左键单击[click]  用时:0.000s  由于未找到元素，操作失败
+2018-04-12 15:02:05 行号:24   ERROR  查找元素[find_element]  用时:0.123s  [decorator.findElement_dec]:unknown error: Runtime.evaluate threw exception: TypeError: Cannot read property 'click' of null
+2018-04-12 15:02:06 行号:24   ERROR  左键单击[click]  用时:0.000s  由于未找到元素，操作失败
+2018-04-12 15:02:07 行号:24   ERROR  查找元素[find_element]  用时:0.145s  [decorator.findElement_dec]:unknown error: Runtime.evaluate threw exception: TypeError: Cannot read property 'click' of null
+2018-04-12 15:02:07 行号:24   ERROR  左键单击[click]  用时:0.000s  由于未找到元素，操作失败
+2018-04-12 15:02:11 行号:24   ERROR  查找元素[find_element]  用时:0.145s  [decorator.findElement_dec]:unknown error: Runtime.evaluate threw exception: TypeError: Cannot read property 'click' of null
+2018-04-12 15:02:11 行号:24   ERROR  左键单击[click]  用时:0.000s  由于未找到元素，操作失败
+2018-04-12 15:02:14 行号:24   ERROR  查找元素[find_element]  用时:0.113s  [decorator.findElement_dec]:unknown error: Runtime.evaluate threw exception: TypeError: Cannot read property 'click' of null
+2018-04-12 15:02:15 行号:24   ERROR  左键单击[click]  用时:0.000s  由于未找到元素，操作失败
+2018-04-12 15:02:18 行号:24   ERROR  查找元素[find_element]  用时:0.118s  [decorator.findElement_dec]:unknown error: Runtime.evaluate threw exception: TypeError: Cannot read property 'click' of null
+2018-04-12 15:02:18 行号:24   ERROR  左键单击[click]  用时:0.000s  由于未找到元素，操作失败
+2018-04-12 15:02:22 行号:24   ERROR  查找元素[find_element]  用时:0.108s  [decorator.findElement_dec]:unknown error: Runtime.evaluate threw exception: TypeError: Cannot read property 'click' of null
+2018-04-12 15:02:23 行号:24   ERROR  左键单击[click]  用时:0.000s  由于未找到元素，操作失败
+2018-04-12 15:02:24 行号:24   ERROR  查找元素[find_element]  用时:0.117s  [decorator.findElement_dec]:unknown error: Runtime.evaluate threw exception: TypeError: Cannot read property 'click' of null
+2018-04-12 15:02:25 行号:24   ERROR  左键单击[click]  用时:0.000s  由于未找到元素，操作失败
+2018-04-12 15:02:26 行号:24   ERROR  查找元素[find_element]  用时:0.113s  [decorator.findElement_dec]:unknown error: Runtime.evaluate threw exception: TypeError: Cannot read property 'click' of null
+2018-04-12 15:02:26 行号:24   ERROR  左键单击[click]  用时:0.000s  由于未找到元素，操作失败
+2018-04-12 15:02:32 脚本运行完毕...
+2018-04-12 15:02:32 行号:0    PASS   关闭浏览器[quit]  用时:0.062s  
+2018-04-12 15:02:36 场景<1>结束.用时:203.526s.
+2018-04-12 15:02:36 场景统计结果：PASS: 38(52.78%),FAIL:  0(0.00%),ERROR: 34(47.22%),TRUE:  3,FALSE:  0
+
+2018-04-12 15:02:36 ----------------------------------------
+2018-04-12 15:02:36 End.
+2018-04-12 15:02:36 测试方案统计结果:
+                    场景<1>:PASS: 38(52.78%),FAIL:  0(0.00%),ERROR: 34(47.22%),TRUE:  3,FALSE:  0
+                    总   计:PASS: 38(52.78%),FAIL:  0(0.00%),ERROR: 34(47.22%),TRUE:  3,FALSE:  0
+

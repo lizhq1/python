@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<catalog>
+  <connection description="浏览器及server地址">
+    <hub browser="Chrome" enabled="True"></hub>
+  </connection>
+  <scene description="脚本执行顺序为子标签排列顺序">
+    <testCase enabled="True" paramPath="">U易联/登陆</testCase>
+    <testCase enabled="True" paramPath="">U易联/商城/商品管理</testCase>
+    <testCase enabled="True" paramPath="">U易联/登出</testCase>
+  </scene>
+</catalog>

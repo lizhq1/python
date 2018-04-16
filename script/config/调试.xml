@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<catalog>
+  <connection description="浏览器及server地址">
+    <hub browser="Chrome" enabled="True">http://0.0.0.0:4444/wd/hub</hub>
+  </connection>
+  <scene description="脚本执行顺序为子标签排列顺序">
+    <!--<testCase enabled="True" paramPath="">U商城/商城后端登陆退出/U商城登录</testCase>-->
+    <!--<testCase enabled="True" paramPath="">U商城/商城设置/站内信设置/站内信设置</testCase>-->
+    <!--<testCase enabled="True" paramPath="">U商城/促销管理/固定套餐/固定套餐</testCase>-->
+    <!--<testCase enabled="True" paramPath="">U商城/供应商管理/供应商设置/供应商设置</testCase>-->
+    <!--<testCase enabled="True" paramPath="">U商城/U商城核心业务流程/周期购业务流程/启用周期购业务</testCase>-->
+    <!--<testCase enabled="True" paramPath="">U商城/U商城核心业务流程/周期购业务流程/新建周期购商品</testCase>-->
+    <!--<testCase enabled="True" paramPath="">U商城/商城后端登陆退出/U商城登出</testCase>-->
+    <testCase enabled="True" paramPath="">U商城/商城前端登陆退出/前端登陆</testCase>
+    <testCase enabled="True" paramPath="">U商城/U商城核心业务流程/周期购业务流程/使用前端下单</testCase>
+  </scene>
+</catalog>

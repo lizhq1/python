@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<scene>
+  <testCase>
+    <testClass description="测试用例类的类名需要对应本标签的name属性" name="EasyCase">
+      <param description="" id="url">http://umalldemo.yonyouup.com/</param>
+      <param description="" id="username">sunlili</param>
+      <param description="" id="password">111111</param>
+    </testClass>
+  </testCase>
+</scene>
